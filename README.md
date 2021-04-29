@@ -19,10 +19,10 @@ O problema utilizado para demonstrar o CRUD
 > Finalmente, desejamos saber que DVDs cada cliente tem emprestados. Um cliente pode ter vários DVDs em um instante no tempo. 
 > Não são mantidos registros históricos de aluguéis.
 
-Modelo Conceitual do problema
+Modelo Conceitual do problema  
 ![ModeloConceitual](https://user-images.githubusercontent.com/64327735/116547162-ec850c00-a8c8-11eb-86aa-4aca02152cf3.jpg)
 
-Modelo lógico do problema
+  Modelo lógico do problema
 ![ModeloLogico](https://user-images.githubusercontent.com/64327735/116547399-34a42e80-a8c9-11eb-945a-028cf7a0950d.jpg)
 
 
