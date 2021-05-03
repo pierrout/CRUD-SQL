@@ -1,5 +1,4 @@
-```
-CREATE TABLE DVD (
+``` CREATE TABLE DVD (
 número int,
 ID smallint
 );
