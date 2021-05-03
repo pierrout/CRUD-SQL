@@ -21,7 +21,8 @@ O problema utilizado para demonstrar o CRUD
 
 | Modelo Conceitual do problema                                                                                             | Modelo Lógico do problema  |
 | --------------------------------------------------------------------------------------------------------------------------| -------------------------- |
-| ![ModeloConceitual](https://user-images.githubusercontent.com/64327735/116547162-ec850c00-a8c8-11eb-86aa-4aca02152cf3.jpg)| ![ModeloLogico](https://user-images.githubusercontent.com/64327735/116547399-34a42e80-a8c9-11eb-945a-028cf7a0950d.jpg) |
+| ![ModeloConceitual](https://user-images.githubusercontent.com/64327735/116547162-ec850c00-a8c8-11eb-86aa-4aca02152cf3.jpg)| ![lógico](https://user-images.githubusercontent.com/64327735/116933482-fe084400-ac39-11eb-85a1-a5d7e4b72c77.jpg)
+ |
 
 
 
