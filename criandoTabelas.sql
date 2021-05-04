@@ -1,4 +1,4 @@
-``` 
+
 CREATE TABLE DVD (
 número int,
 ID smallint
@@ -24,4 +24,4 @@ data_nascimento date
 );
 
 ALTER TABLE DVD ADD FOREIGN KEY(ID) REFERENCES filme (ID)
-``` 
+
